@@ -14,3 +14,8 @@ personal training log for LeetCode
 #### Difiiculty: 1
 #### Tags
 `hash`
+
+### 0002 Add Two Numbers
+#### Difiiculty: 1
+#### Tags
+`linked list`
