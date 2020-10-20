@@ -19,5 +19,3 @@ personal training log for LeetCode
 #### Difiiculty: 1
 #### Tags
 `linked list`
-
-$\frac{1}{2}$
