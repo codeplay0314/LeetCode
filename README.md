@@ -10,15 +10,10 @@ personal training log for LeetCode
 
 ## Problem List
 
-### 0001 Two Sum
-#### Difiiculty: 1
+### 0897 Increasing Order Search Tree
+#### Difiiculty: 2
 #### Tags
-`hash`
-
-### 0002 Add Two Numbers
-#### Difiiculty: 1
-#### Tags
-`linked list`
+`bst`
 
 ### 0212 Add Two Numbers
 #### Difiiculty: 4
@@ -26,3 +21,14 @@ personal training log for LeetCode
 `search`, `trie`
 #### Solution
 Search each word directly on the matrix will exceed the time limit, so build a trie first!
+
+### 0002 Add Two Numbers
+#### Difiiculty: 1
+#### Tags
+`linked list`
+
+### 0001 Two Sum
+#### Difiiculty: 1
+#### Tags
+`hash`
+
