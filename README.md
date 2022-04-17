@@ -19,3 +19,10 @@ personal training log for LeetCode
 #### Difiiculty: 1
 #### Tags
 `linked list`
+
+### 0212 Add Two Numbers
+#### Difiiculty: 4
+#### Tags
+`search`, `trie`
+#### Solution
+Search each word directly on the matrix will exceed the time limit, so build a trie first!
