@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem List
 
+### 10. Regular Expression Matching
+#### Difiiculty: 2
+#### Tags
+`DP`
+
 ### 4. Median of Two Sorted Arrays
 #### Difiiculty: 3
 #### Tags
