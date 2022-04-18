@@ -10,24 +10,41 @@ personal training log for LeetCode
 
 ## Problem List
 
-### 0897 Increasing Order Search Tree
+### 4. Median of Two Sorted Arrays
+#### Difiiculty: 3
+#### Tags
+`binary search`
+#### Solution
+Watch out edge cases.
+
+### 230. Kth Smallest Element in a BST
 #### Difiiculty: 2
 #### Tags
 `bst`
 
-### 0212 Add Two Numbers
+### 897. Increasing Order Search Tree
+#### Difiiculty: 2
+#### Tags
+`bst`
+
+### 212. Add Two Numbers
 #### Difiiculty: 4
 #### Tags
 `search`, `trie`
 #### Solution
 Search each word directly on the matrix will exceed the time limit, so build a trie first!
 
-### 0002 Add Two Numbers
+### 72. Edit Distance
+#### Difiiculty: 3
+#### Tags
+`DP`
+
+### 2. Add Two Numbers
 #### Difiiculty: 1
 #### Tags
 `linked list`
 
-### 0001 Two Sum
+### 1. Two Sum
 #### Difiiculty: 1
 #### Tags
 `hash`
