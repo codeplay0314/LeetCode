@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem List
 
+### 30. Substring with Concatenation of All Words
+#### Difiiculty: 3
+#### Tags
+`KMP`
+
 ### 25. Reverse Nodes in k-Group
 #### Difiiculty: 2
 #### Tags
