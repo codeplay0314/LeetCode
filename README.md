@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem List
 
+### 25. Reverse Nodes in k-Group
+#### Difiiculty: 2
+#### Tags
+`linked list`
+
 ### 23. Merge k Sorted Lists
 #### Difiiculty: 2
 #### Tags
