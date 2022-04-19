@@ -10,6 +10,13 @@ personal training log for LeetCode
 
 ## Problem List
 
+### 99. Recover Binary Search Tree
+#### Difiiculty: 3
+#### Tags
+`bst`
+#### Solution
+There are 2 errors in in-order sequence. Swap them.
+
 ### 10. Regular Expression Matching
 #### Difiiculty: 2
 #### Tags
