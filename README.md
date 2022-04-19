@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem List
 
+### 32. Longest Valid Parentheses
+#### Difiiculty: 2
+#### Tags
+`stack`
+
 ### 30. Substring with Concatenation of All Words
 #### Difiiculty: 3
 #### Tags
