@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem List
 
+### 23. Merge k Sorted Lists
+#### Difiiculty: 2
+#### Tags
+`priority queue`, `merge sort`
+
 ### 99. Recover Binary Search Tree
 #### Difiiculty: 3
 #### Tags
