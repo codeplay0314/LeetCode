@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem 
 
+### 44. Wildcard Matching
+#### Difiiculty: 2
+#### Tags
+`DP`
+
 ### 42. Trapping Rain Water
 #### Difiiculty: 3
 #### Tags
