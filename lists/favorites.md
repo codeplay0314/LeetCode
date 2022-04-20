@@ -1,6 +1,9 @@
 # Favorite Problems
 
-### 41. First Missing Positive
+## 42. Trapping Rain Water
+Tricks
+
+## 41. First Missing Positive
 Use tricks to save more space
 
 ## 99. Recover Binary Search Tree

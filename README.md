@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem 
 
+### 42. Trapping Rain Water
+#### Difiiculty: 3
+#### Tags
+`tricks`
+
 ### 41. First Missing Positive
 #### Difiiculty: 3
 #### Tags
