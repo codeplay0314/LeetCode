@@ -10,6 +10,13 @@ personal training log for LeetCode
 
 ## Problem 
 
+### 41. First Missing Positive
+#### Difiiculty: 3
+#### Tags
+`tricks`
+#### Hint
+When the space is limited, use what already exist!
+
 ### 37. Sudoku Solver
 #### Difiiculty: 2
 #### Tags
