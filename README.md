@@ -8,7 +8,12 @@ personal training log for LeetCode
 4. Challenging
 5. Impossible
 
-## Problem 
+## Problem
+
+### 60. Permutation Sequence
+#### Difiiculty: 2
+#### Tags
+`permutation`, `math`
 
 ### 51. N-Queens && 52. N-Queens II
 #### Difiiculty: 2

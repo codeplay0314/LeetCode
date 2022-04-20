@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 60. Permutation Sequence
+Permutation counts
+
 ## 42. Trapping Rain Water
 Tricks
 
