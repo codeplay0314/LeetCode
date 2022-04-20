@@ -10,8 +10,15 @@ personal training log for LeetCode
 
 ## Problem
 
+### 68. Text Justification
+#### Difiiculty: 1
+#### Tags
+`string`
+
 ### 65. Valid Number
 #### Difiiculty: 1
+#### Tags
+`string`
 
 ### 60. Permutation Sequence
 #### Difiiculty: 2
