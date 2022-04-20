@@ -10,6 +10,16 @@ personal training log for LeetCode
 
 ## Problem 
 
+### 37. Sudoku Solver
+#### Difiiculty: 2
+#### Tags
+`backtracking`
+
+### 173. Binary Search Tree Iterator
+#### Difiiculty: 2
+#### Tags
+`bst`, `stack`
+
 ### 538. Convert BST to Greater Tree
 #### Difiiculty: 2
 #### Tags
