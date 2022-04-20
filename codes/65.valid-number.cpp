@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode id=65 lang=cpp
+ *
+ * [65] Valid Number
+ */
+
+// @lc code=start
 class Solution {
 private:
     bool isDigits(string str) {
@@ -46,3 +53,5 @@ public:
         return (isInteger(str.substr(0, e_pos)) || isDecimal(str.substr(0, e_pos))) && isInteger(str.substr(e_pos + 1, len));
     }
 };
+// @lc code=end
+

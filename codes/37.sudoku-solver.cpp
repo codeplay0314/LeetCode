@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode id=37 lang=cpp
+ *
+ * [37] Sudoku Solver
+ */
+
+// @lc code=start
 class Solution {
 private:
     int nums;
@@ -58,3 +65,5 @@ public:
         search(board, 0);
     }
 };
+// @lc code=end
+

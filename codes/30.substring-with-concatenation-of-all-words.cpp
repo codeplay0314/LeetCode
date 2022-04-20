@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode id=30 lang=cpp
+ *
+ * [30] Substring with Concatenation of All Words
+ */
+
+// @lc code=start
 class Tokenizer {
 private:
     int tot = 0;
@@ -119,3 +126,5 @@ public:
         return ans;
     }
 };
+// @lc code=end
+

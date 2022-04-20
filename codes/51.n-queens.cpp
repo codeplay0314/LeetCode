@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode id=51 lang=cpp
+ *
+ * [51] N-Queens
+ */
+
+// @lc code=start
 class Solution {
 private:
     int n;
@@ -43,3 +50,5 @@ public:
         return ans;
     }
 };
+// @lc code=end
+

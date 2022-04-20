@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode id=42 lang=cpp
+ *
+ * [42] Trapping Rain Water
+ */
+
+// @lc code=start
 class Solution {
 public:
     int trap(vector<int>& height) {
@@ -19,3 +26,5 @@ public:
         return  (int)(-(long long)h * w - bar + larea + rarea);
     }
 };
+// @lc code=end
+

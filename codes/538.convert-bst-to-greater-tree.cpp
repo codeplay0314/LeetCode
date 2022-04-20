@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode id=538 lang=cpp
+ *
+ * [538] Convert BST to Greater Tree
+ */
+
+// @lc code=start
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -25,3 +32,5 @@ public:
         return root;
     }
 };
+// @lc code=end
+

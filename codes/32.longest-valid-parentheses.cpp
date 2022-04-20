@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode id=32 lang=cpp
+ *
+ * [32] Longest Valid Parentheses
+ */
+
+// @lc code=start
 class StackNode {
 public:
     int level, pos;
@@ -51,3 +58,5 @@ public:
         return ans;
     }
 };
+// @lc code=end
+
