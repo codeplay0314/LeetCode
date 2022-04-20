@@ -10,6 +10,9 @@ personal training log for LeetCode
 
 ## Problem
 
+### 65. Valid Number
+#### Difiiculty: 1
+
 ### 60. Permutation Sequence
 #### Difiiculty: 2
 #### Tags
