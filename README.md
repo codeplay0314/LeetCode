@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 76. Minimum Window Substring
+#### Difiiculty: 2
+#### Tags
+`string`
+
 ### 68. Text Justification
 #### Difiiculty: 1
 #### Tags
