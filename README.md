@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem 
 
+### 51. N-Queens && 52. N-Queens II
+#### Difiiculty: 2
+#### Tags
+`backtracking`
+
 ### 44. Wildcard Matching
 #### Difiiculty: 2
 #### Tags
