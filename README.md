@@ -10,6 +10,13 @@ personal training log for LeetCode
 
 ## Problem
 
+### 85. Maximal Rectangle
+#### Difiiculty: 2
+#### Tag
+`stack`
+#### Solution
+Reuse the Solution class of problem 84!
+
 ### 84. Largest Rectangle in Histogram
 #### Difiiculty: 2
 #### Tag
