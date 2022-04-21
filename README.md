@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 84. Largest Rectangle in Histogram
+#### Difiiculty: 2
+#### Tag
+`stack`
+
 ### 705. Design HashSet
 #### Difiiculty: 1
 
