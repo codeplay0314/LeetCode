@@ -10,6 +10,20 @@ personal training log for LeetCode
 
 ## Problem
 
+### 115. Distinct Subsequences
+#### Difiiculty: 3
+#### Tag
+`DP` 
+#### Solution
+The answer will not exceed int range but the intermediate may!
+
+### 87. Scramble String
+#### Difiiculty: 3
+#### Tag
+`recursion`
+#### Solution
+Cache is important!!
+
 ### 85. Maximal Rectangle
 #### Difiiculty: 2
 #### Tag
