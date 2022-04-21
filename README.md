@@ -10,6 +10,9 @@ personal training log for LeetCode
 
 ## Problem
 
+### 705. Design HashSet
+#### Difiiculty: 1
+
 ### 76. Minimum Window Substring
 #### Difiiculty: 2
 #### Tags
