@@ -10,6 +10,14 @@ personal training log for LeetCode
 
 ## Problem
 
+### 123. Best Time to Buy and Sell Stock III
+#### Difiiculty: 4
+#### Tag
+`DP` 
+
+### 706. Desgin HashMap
+#### Difiiculty: 1
+
 ### 115. Distinct Subsequences
 #### Difiiculty: 3
 #### Tag
