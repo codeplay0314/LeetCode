@@ -35,34 +35,21 @@ public:
     }
     int ShortestPath(int S, int T) {
         int cnt = 0;
-        queue<int> q1, q2;
-        vector<int> dis1(N, inf), dis2(N, inf);
-        q1.push(S), dis1[S] = 0;
-        q2.push(T), dis2[T] = 0;
-        int curd = 0;
-        while (!q1.empty() || !q2.empty()) {
-            while (!q1.empty() && dis1[q1.front()] == curd) {
-                cnt++;
-                int u = q1.front();
-                q1.pop();
-                for (auto v : E[u]) {
-                    if (dis1[v] == inf) q1.push(v), dis1[v] = dis1[u] + 1;
-                    if (dis2[v] != inf) dis1[T] = min(dis1[T], dis1[v] + dis2[v]);
-                }
-            }
-            if (!q2.empty() && dis2[q2.front()] == curd) {
-                cnt++;
-                int u = q2.front();
-                q2.pop();
-                for (auto v : E[u]) {
-                    if (dis2[v] == inf) q2.push(v), dis2[v] = dis2[u] + 1;
-                    if (dis1[v] != inf) dis1[T] = min(dis1[T], dis1[v] + dis2[v]);
-                }
-            }
-            if (dis1[T] != inf) break;
-            curd++;
+        queue<int> q;
+        vector<vector<int>> dis(2, vector<int>(N, inf));
+        q.push(S), dis[0][S] = 0;
+        q.push(T), dis[1][T] = 0;
+        while (!q.empty()) {
+            int u = q.front();
+            q.pop();
+            for (int t = 0; t < 2; t++)
+                if (dis[t][u] != inf)
+                    for (auto v : E[u]) {
+                        if (dis[t][v] == inf) q.push(v), dis[t][v] = dis[t][u] + 1;
+                        if (dis[t^1][v] != inf) return dis[0][v] + dis[1][v] + 1;
+                    }
         }
-        return dis1[T] == inf ? 0 : dis1[T] + 1;
+        return 0;
     }
 };
 
