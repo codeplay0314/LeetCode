@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 127. Word Ladder
+#### Difiiculty: 3
+#### Tag
+`graph`, `bfs`, `bidirectional bfs`, `shortest path`
+
 ### 126. Word Ladder II
 #### Difiiculty: 2
 #### Tag
