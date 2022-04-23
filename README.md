@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 135. Candy
+#### Difiiculty: 2
+#### Tag
+`topological sorting` 
+
 ### 132. Palindrome Partitioning II
 #### Difiiculty: 3
 #### Tag
