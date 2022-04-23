@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 132. Palindrome Partitioning II
+#### Difiiculty: 3
+#### Tag
+`DP` 
+
 ### 535. Encode and Decode TinyURL
 #### Difiiculty: 1
 
