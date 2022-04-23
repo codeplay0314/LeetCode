@@ -10,20 +10,25 @@ personal training log for LeetCode
 
 ## Problem
 
+### 149. Max Points on a Line
+#### Difiiculty: 2
+#### Tag
+`brute force`
+
 ### 140. Word Break II
 #### Difiiculty: 2
 #### Tag
-`backtracking` 
+`backtracking`
 
 ### 135. Candy
 #### Difiiculty: 2
 #### Tag
-`topological sorting` 
+`topological sorting`
 
 ### 132. Palindrome Partitioning II
 #### Difiiculty: 3
 #### Tag
-`DP` 
+`DP`
 
 ### 535. Encode and Decode TinyURL
 #### Difiiculty: 1
@@ -46,7 +51,7 @@ personal training log for LeetCode
 ### 123. Best Time to Buy and Sell Stock III
 #### Difiiculty: 4
 #### Tag
-`DP` 
+`DP`
 
 ### 706. Desgin HashMap
 #### Difiiculty: 1
@@ -54,7 +59,7 @@ personal training log for LeetCode
 ### 115. Distinct Subsequences
 #### Difiiculty: 3
 #### Tag
-`DP` 
+`DP`
 #### Solution
 The answer will not exceed int range but the intermediate may!
 
@@ -207,4 +212,3 @@ Search each word directly on the matrix will exceed the time limit, so build a t
 #### Difiiculty: 1
 #### Tags
 `hash`
-
