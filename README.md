@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 140. Word Break II
+#### Difiiculty: 2
+#### Tag
+`backtracking` 
+
 ### 135. Candy
 #### Difiiculty: 2
 #### Tag
