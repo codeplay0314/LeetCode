@@ -10,6 +10,9 @@ personal training log for LeetCode
 
 ## Problem
 
+### 535. Encode and Decode TinyURL
+#### Difiiculty: 1
+
 ### 127. Word Ladder
 #### Difiiculty: 3
 #### Tag
