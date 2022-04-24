@@ -10,6 +10,9 @@ personal training log for LeetCode
 
 ## Problem
 
+### 1396. Design Underground System
+#### Difiiculty: 1
+
 ### 149. Max Points on a Line
 #### Difiiculty: 2
 #### Tag
