@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 174. Dungeon Game
+The direction of dynamic programming is important!
+
 ### 60. Permutation Sequence
 Permutation counts
 

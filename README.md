@@ -10,6 +10,21 @@ personal training log for LeetCode
 
 ## Problem
 
+### 174. Dungeon Game
+#### Difiiculty: 4
+#### Tag
+`DP`
+
+### 164. Maximum Gap
+#### Difiiculty: 3
+#### Tag
+`bucket sort`
+
+### 154. Find Minimum in Rotated Sorted Array II
+#### Difiiculty: 3
+#### Tag
+`binary search`
+
 ### 284. Peeking Iterator
 #### Difiiculty: 3
 #### Tag
