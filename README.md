@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 284. Peeking Iterator
+#### Difiiculty: 3
+#### Tag
+`iterator`
+
 ### 1396. Design Underground System
 #### Difiiculty: 1
 
