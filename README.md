@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 185. Department Top Three Salaries
+#### Difiiculty: 3
+#### Tag
+`MySQL`
+
 ### 1584. Min Cost to Connect All Points
 #### Difiiculty: 2
 #### Tag
