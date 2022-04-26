@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 1584. Min Cost to Connect All Points
+#### Difiiculty: 2
+#### Tag
+`minimum spanning tree`
+
 ### 174. Dungeon Game
 #### Difiiculty: 4
 #### Tag
