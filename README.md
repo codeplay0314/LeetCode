@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 213. Shortest Palindrome
+#### Difiiculty: 4
+#### Tag
+`KMP`
+
 ### 1202. Smallest String With Swaps
 #### Difiiculty: 2
 #### Tag
