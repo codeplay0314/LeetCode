@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 1202. Smallest String With Swaps
+#### Difiiculty: 2
+#### Tag
+`union find`
+
 ### 188. Best Time to Buy and Sell Stock IV
 #### Difiiculty: 4
 #### Tag
