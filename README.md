@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 218. The Skyline Problem
+#### Difiiculty: 3
+#### Tag
+`priority_queue`
+
 ### 1631. Path With Minimum Effort
 #### Difiiculty: 2
 #### Tag
