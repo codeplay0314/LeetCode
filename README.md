@@ -10,17 +10,22 @@ personal training log for LeetCode
 
 ## Problem
 
+### 224. Basic Calculator
+#### Difiiculty: 4
+#### Tag
+`suffix expression`, `stack`
+
 ### 218. The Skyline Problem
 #### Difiiculty: 3
 #### Tag
-`priority_queue`
+`priority queue`
 
 ### 1631. Path With Minimum Effort
 #### Difiiculty: 2
 #### Tag
 `binary search`, `union find`, `bfs`
 
-### 213. Shortest Palindrome
+### 214. Shortest Palindrome
 #### Difiiculty: 4
 #### Tag
 `KMP`
