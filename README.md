@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 1631. Path With Minimum Effort
+#### Difiiculty: 2
+#### Tag
+`binary search`, `union find`, `bfs`
+
 ### 213. Shortest Palindrome
 #### Difiiculty: 4
 #### Tag
