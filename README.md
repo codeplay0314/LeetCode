@@ -10,6 +10,21 @@ personal training log for LeetCode
 
 ## Problem
 
+### 239. Sliding Window Maximum
+#### Difiiculty: 3
+#### Tag
+`monotonic queue`
+
+### 233. Number of Digit One
+#### Difiiculty: 3
+#### Tag
+`DP`
+
+### 785. Is Graph Bipartite?
+#### Difiiculty: 2
+#### Tag
+`bfs`
+
 ### 224. Basic Calculator
 #### Difiiculty: 4
 #### Tag
