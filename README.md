@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 262. Trips and Users
+#### Difiiculty: 2
+#### Tag
+`MySQL`
+
 ### 239. Sliding Window Maximum
 #### Difiiculty: 3
 #### Tag
