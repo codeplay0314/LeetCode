@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 399. Evaluate Division
+#### Difiiculty: 3
+#### Tag
+`graph`, `bfs`, `union find`
+
 ### 262. Trips and Users
 #### Difiiculty: 2
 #### Tag
