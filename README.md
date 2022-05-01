@@ -10,6 +10,14 @@ personal training log for LeetCode
 
 ## Problem
 
+### 273. Integer to English Words
+#### Difiiculty: 2
+
+### 844. Backspace String Compare
+#### Difiiculty: 1
+#### Tag
+`stack`
+
 ### 399. Evaluate Division
 #### Difiiculty: 3
 #### Tag
