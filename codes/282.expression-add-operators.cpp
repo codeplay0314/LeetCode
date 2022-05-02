@@ -5,67 +5,37 @@
  */
 
 // @lc code=start
-#include <bits/stdc++.h>
-using namespace std;
 class Solution {
-    unordered_map<char, int> prio;
-    bool eval(string expr, int value) {
-        expr += "$";
-        stack<char> st;
-        vector<long long> suff;
-        int l = 0, r = 0;
-        for (auto c : expr) {
-            if (!isdigit(c)) {
-                if (l < r) {
-                    if (r - l > 1 && expr[l] == '0') return false;
-                    suff.push_back(atoll(expr.substr(l, r - l).c_str()));
-                    l = r + 1;
-                }
-                while (!st.empty() && prio[st.top()] >= prio[c]) {
-                    char op = st.top();
-                    if (op == '+') suff.push_back(-1);
-                    else if (op == '-') suff.push_back(-2);
-                    else if (op == '*') suff.push_back(-3);
-                    st.pop();
-                }
-                st.push(c);
-            }
-            r++;
+    int n;
+    string nums;
+    int target;
+    vector<string> ans;
+    void search(int p, const string& expr, long long cur, long long pre) {
+        if (p == nums.size()) {
+            if (cur == target) ans.push_back(expr);
+            return;
         }
-        stack<long long> tokens;
-        for (auto tk : suff) {
-            if (tk >= 0) tokens.push(tk);
-            else {
-                long long y = tokens.top(); tokens.pop();
-                long long x = tokens.top(); tokens.pop();
-                if (tk == -1) tokens.push(x + y);
-                else if (tk == -2) tokens.push(x - y);
-                else tokens.push(x * y);
+        string str;
+        long long num = 0;
+        for (int i = p; i < n; i++) {
+            if (i > p && nums[p] == '0') break;
+            str += nums[i];
+            num = num * 10 + nums[i] - '0';
+            if (p == 0) {
+                search(i + 1, str, num, num);
+            } else {
+                search(i + 1, expr + "+" + str, cur + num, num);
+                search(i + 1, expr + "-" + str, cur - num, -num);
+                search(i + 1, expr + "*" + str, cur - pre + pre * num, pre * num);
             }
         }
-        return tokens.top() == value;
-    }
-    void preProcess() {
-        prio['$'] = 0;
-        prio['-'] = prio['+'] = 1;
-        prio['*'] = 2;
     }
 public:
     vector<string> addOperators(string num, int target) {
-        preProcess();
-        vector<string> ans;
-        int n = num.length();
-        for (int i = 0, possi = pow(4, n - 1); i < possi; i++) {
-            string expr = {num[0]};
-            for (int j = 1, p = i; j < n; j++) {
-                if (p % 4 == 1) expr += "+";
-                else if (p % 4 == 2) expr += "-";
-                else if (p % 4 == 3) expr += "*";
-                expr += num[j];
-                p /= 4;
-            }
-            if (eval(expr, target)) ans.push_back(expr);
-        }
+        n = num.length();
+        nums = num;
+        this->target = target;
+        search(0, "", 0, 0);
         return ans;
     }
 };

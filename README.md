@@ -10,6 +10,14 @@ personal training log for LeetCode
 
 ## Problem
 
+### 282. Expression Add Operators
+#### Difiiculty: 4
+#### Tag
+`backtracking`
+
+### 905. Sort Array By Parity
+#### Difiiculty: 1
+
 ### 273. Integer to English Words
 #### Difiiculty: 2
 

@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 282. Expression Add Operators
+Backtracking with calculation on the fly
+
 ### 174. Dungeon Game
 The direction of dynamic programming is important!
 
