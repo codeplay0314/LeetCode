@@ -10,6 +10,19 @@ personal training log for LeetCode
 
 ## Problem
 
+### 297. Serialize and Deserialize Binary Tree
+#### Difiiculty: 3
+#### Tag
+`tree`
+
+### 295. Find Median from Data Stream
+#### Difiiculty: 4
+#### Tag
+`priority queue`
+
+### 581. Shortest Unsorted Continuous Subarray
+#### Difiiculty: 2
+
 ### 282. Expression Add Operators
 #### Difiiculty: 4
 #### Tag

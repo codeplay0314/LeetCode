@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 295. Find Median from Data Stream
+Clever solution with heap
+
 ### 282. Expression Add Operators
 Backtracking with calculation on the fly
 
