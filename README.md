@@ -10,6 +10,16 @@ personal training log for LeetCode
 
 ## Problem
 
+### 301. Remove Invalid Parentheses
+#### Difiiculty: 3
+#### Tag
+`backtracking`, `pruning`
+
+### 1679. Max Number of K-Sum Pairs
+#### Difiiculty: 2
+#### Tag
+`sort`
+
 ### 297. Serialize and Deserialize Binary Tree
 #### Difiiculty: 3
 #### Tag
