@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 312. Burst Balloons
+Special segmentation dynamic programming
+
 ### 295. Find Median from Data Stream
 Clever solution with heap
 

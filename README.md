@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 312. Burst Balloons
+#### Difiiculty: 4
+#### Tag
+`DP`
+
 ### 301. Remove Invalid Parentheses
 #### Difiiculty: 3
 #### Tag
