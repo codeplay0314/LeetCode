@@ -10,6 +10,16 @@ personal training log for LeetCode
 
 ## Problem
 
+### 315. Count of Smaller Numbers After Self
+#### Difiiculty: 3
+#### Tag
+`segment tree`
+
+### 1209. Remove All Adjacent Duplicates in String II
+#### Difiiculty: 2
+#### Tag
+`greedy`
+
 ### 312. Burst Balloons
 #### Difiiculty: 4
 #### Tag
