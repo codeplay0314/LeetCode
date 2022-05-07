@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 456. 132 Pattern
+#### Difiiculty: 3
+#### Tag
+`monotonic stack`
+
 ### 315. Count of Smaller Numbers After Self
 #### Difiiculty: 3
 #### Tag
