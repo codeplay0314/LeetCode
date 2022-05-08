@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 341. Flatten Nested List Iterator
+#### Difiiculty: 2
+#### Tag
+`dfs`
+
 ### 456. 132 Pattern
 #### Difiiculty: 3
 #### Tag

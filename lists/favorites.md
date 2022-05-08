@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 456. 132 Pattern
+Good monotonic stack problem
+
 ### 312. Burst Balloons
 Special segmentn dynamic programming
 
