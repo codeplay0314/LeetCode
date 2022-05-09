@@ -10,6 +10,16 @@ personal training log for LeetCode
 
 ## Problem
 
+### 321. Create Maximum Number
+#### Difiiculty: 4
+#### Tag
+`greedy`
+
+### 17. Letter Combinations of a Phone Number
+#### Difiiculty: 1
+#### Tag
+`dfs`
+
 ### 341. Flatten Nested List Iterator
 #### Difiiculty: 2
 #### Tag

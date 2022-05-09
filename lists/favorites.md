@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 321. Create Maximum Number
+Kinda hate this kind of problems
+
 ### 456. 132 Pattern
 Good monotonic stack problem
 
