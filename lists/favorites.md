@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 327. Count of Range Sum
+Brilliant method to avoid balance tree
+
 ### 321. Create Maximum Number
 Kinda hate this kind of problems
 

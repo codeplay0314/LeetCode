@@ -10,6 +10,16 @@ personal training log for LeetCode
 
 ## Problem
 
+### 327. Count of Range Sum
+#### Difiiculty: 4
+#### Tag
+`prefix sum`, `divide and conquer`
+
+### 216. Combination Sum III
+#### Difiiculty: 2
+#### Tag
+`bfs`
+
 ### 321. Create Maximum Number
 #### Difiiculty: 4
 #### Tag
