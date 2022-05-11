@@ -10,6 +10,16 @@ personal training log for LeetCode
 
 ## Problem
 
+### 329. Longest Increasing Path in a Matrix
+#### Difiiculty: 2
+#### Tag
+`topological sort`
+
+### 1641. Count Sorted Vowel Strings
+#### Difiiculty: 2
+#### Tag
+`DP`, `combinatorial mathematics`
+
 ### 327. Count of Range Sum
 #### Difiiculty: 4
 #### Tag
