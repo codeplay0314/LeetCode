@@ -10,6 +10,16 @@ personal training log for LeetCode
 
 ## Problem
 
+### 330. Patching Array
+#### Difiiculty: 3
+#### Tag
+`greedy`
+
+### 47. Permutations II
+#### Difiiculty: 2
+#### Tag
+`backtracking`
+
 ### 329. Longest Increasing Path in a Matrix
 #### Difiiculty: 2
 #### Tag
