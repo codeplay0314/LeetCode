@@ -10,6 +10,16 @@ personal training log for LeetCode
 
 ## Problem
 
+### 332. Reconstruct Itinerary
+#### Difiiculty: 4
+#### Tag
+`backtracking`, `eulerian circuit`
+
+### 743. Network Delay Time
+#### Difiiculty: 3
+#### Tag
+`shortest path`
+
 ### 117. Populating Next Right Pointers in Each Node II
 #### Difiiculty: 2
 #### Tag
