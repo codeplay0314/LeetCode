@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 335. Self Crossing
+A complex problem that can be solved either easily or hard
+
 ### 327. Count of Range Sum
 Brilliant method to avoid balance tree
 

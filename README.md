@@ -10,6 +10,16 @@ personal training log for LeetCode
 
 ## Problem
 
+### 335. Self Crossing
+#### Difiiculty: 4
+#### Tag
+`simulation`
+
+### 1302. Deepest Leaves Sum
+#### Difiiculty: 2
+#### Tag
+`bfs`
+
 ### 332. Reconstruct Itinerary
 #### Difiiculty: 4
 #### Tag
