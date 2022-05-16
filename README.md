@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 1091. Shortest Path in Binary Matrix
+#### Difiiculty: 2
+#### Tag
+`bfs`
+
 ### 335. Self Crossing
 #### Difiiculty: 4
 #### Tag
