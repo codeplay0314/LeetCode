@@ -10,6 +10,16 @@ personal training log for LeetCode
 
 ## Problem
 
+### 336. Palindrome Pairs
+#### Difiiculty: 5
+#### Tag
+`manacher`, `hash`, `string`
+
+### 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+#### Difiiculty: 2
+#### Tag
+`bfs`
+
 ### 1091. Shortest Path in Binary Matrix
 #### Difiiculty: 2
 #### Tag

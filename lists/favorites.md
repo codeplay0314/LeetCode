@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 336. Palindrome Pairs
+A problem conbines hash and manacher algorithm, and my best O(n * k) solution can be TLE as well!
+
 ### 335. Self Crossing
 A complex problem that can be solved either easily or hard
 
