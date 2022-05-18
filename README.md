@@ -10,6 +10,13 @@ personal training log for LeetCode
 
 ## Problem
 
+### 1192. Critical Connections in a Network
+#### Difiiculty: 3
+#### Tag
+`tarjan`
+#### Solution
+Using tarjan algorithm, the low vector value of child node in the dfs tree in a critial edge should be bigger than the dfn vector value of parent node.
+
 ### 336. Palindrome Pairs
 #### Difiiculty: 5
 #### Tag
