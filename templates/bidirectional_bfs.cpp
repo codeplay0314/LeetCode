@@ -1,4 +1,4 @@
-// See: Problem 1192. Critical Connections in a Network
+// See: Problem 127. Word Ladder
 
 int BiBFS(int S, int T) {
     int cnt = 0;
