@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 352. Data Stream as Disjoint Intervals
+#### Difiiculty: 2
+#### Tag
+`set`
+
 ### 1192. Critical Connections in a Network
 #### Difiiculty: 3
 #### Tag
