@@ -10,6 +10,16 @@ personal training log for LeetCode
 
 ## Problem
 
+### 354. Russian Doll Envelopes
+#### Difiiculty: 3
+#### Tag
+`longest increasing subsequence`
+
+### 322. Coin Change
+#### Difiiculty: 2
+#### Tag
+`dp`
+
 ### 63. Unique Paths II
 #### Difiiculty: 2
 #### Tag
