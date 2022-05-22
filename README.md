@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 647. Palindromic Substrings
+#### Difiiculty: 3
+#### Tag
+`manacher`, `dp`
+
 ### 354. Russian Doll Envelopes
 #### Difiiculty: 3
 #### Tag
