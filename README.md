@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 474. Ones and Zeroes
+#### Difiiculty: 2
+#### Tag
+`dp`
+
 ### 647. Palindromic Substrings
 #### Difiiculty: 3
 #### Tag
