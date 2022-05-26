@@ -10,6 +10,16 @@ personal training log for LeetCode
 
 ## Problem
 
+### 363. Max Sum of Rectangle No Larger Than K
+#### Difiiculty: 2
+#### Tag
+`brute force`
+
+### 191. Number of 1 Bits
+#### Difiiculty: 2
+#### Tag
+`bit manipulation`
+
 ### 474. Ones and Zeroes
 #### Difiiculty: 2
 #### Tag
