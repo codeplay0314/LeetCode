@@ -10,6 +10,14 @@ personal training log for LeetCode
 
 ## Problem
 
+### 381. Insert Delete GetRandom O(1) - Duplicates allowed
+#### Difiiculty: 3
+#### Tag
+`stl`
+
+### 1342. Number of Steps to Reduce a Number to Zero
+#### Difiiculty: 1
+
 ### 363. Max Sum of Rectangle No Larger Than K
 #### Difiiculty: 2
 #### Tag
