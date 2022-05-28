@@ -10,6 +10,9 @@ personal training log for LeetCode
 
 ## Problem
 
+### 268. Missing Number
+#### Difiiculty: 1
+
 ### 381. Insert Delete GetRandom O(1) - Duplicates allowed
 #### Difiiculty: 3
 #### Tag
