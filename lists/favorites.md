@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 391. Perfect Rectangle
+Standard problem of line sweeping.
+
 ### 336. Palindrome Pairs
 A problem conbines hash and manacher algorithm, and my best O(n * k) solution can be TLE as well!
 

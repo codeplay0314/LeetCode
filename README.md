@@ -10,6 +10,16 @@ personal training log for LeetCode
 
 ## Problem
 
+### 391. Perfect Rectangle
+#### Difiiculty: 4
+#### Tag
+`line sweep`
+
+### 318. Maximum Product of Word Lengths
+#### Difiiculty: 1
+#### Tag
+`bit manipulation`
+
 ### 268. Missing Number
 #### Difiiculty: 1
 
