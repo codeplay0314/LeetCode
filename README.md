@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 29. Divide Two Integers
+#### Difiiculty: 3
+#### Tag
+`math`
+
 ### 391. Perfect Rectangle
 #### Difiiculty: 4
 #### Tag
