@@ -10,6 +10,11 @@ personal training log for LeetCode
 
 ## Problem
 
+### 1461. Check If a String Contains All Binary Codes of Size K
+#### Difiiculty: 2
+#### Tag
+`bit manipulation`
+
 ### 29. Divide Two Integers
 #### Difiiculty: 3
 #### Tag
