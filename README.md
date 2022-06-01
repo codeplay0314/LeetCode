@@ -9,6 +9,13 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 403. Frog Jump
+#### Difiiculty: 3
+#### Tag
+`dp`
+
+### 1480. Running Sum of 1d Array
+#### Difiiculty: 1
 
 ### 1461. Check If a String Contains All Binary Codes of Size K
 #### Difiiculty: 2
