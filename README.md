@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 867. Transpose Matrix
+#### Difiiculty: 1
+
 ### 403. Frog Jump
 #### Difiiculty: 3
 #### Tag
