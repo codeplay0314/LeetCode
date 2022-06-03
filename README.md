@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 304. Range Sum Query 2D - Immutable
+#### Difiiculty: 1
+
 ### 867. Transpose Matrix
 #### Difiiculty: 1
 
