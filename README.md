@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 160. Intersection of Two Linked Lists
+#### Difiiculty: 2
+
 ### 304. Range Sum Query 2D - Immutable
 #### Difiiculty: 1
 
