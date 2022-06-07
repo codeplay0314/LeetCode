@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 88. Merge Sorted Array
+#### Difiiculty: 2
+
 ### 160. Intersection of Two Linked Lists
 #### Difiiculty: 2
 
