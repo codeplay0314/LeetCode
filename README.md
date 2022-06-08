@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1332. Remove Palindromic Subsequences
+#### Difiiculty: 2
+
 ### 88. Merge Sorted Array
 #### Difiiculty: 2
 
