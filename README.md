@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 3. Longest Substring Without Repeating Characters
+#### Difiiculty: 2
+
 ### 1332. Remove Palindromic Subsequences
 #### Difiiculty: 2
 
