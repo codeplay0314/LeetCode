@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1695. Maximum Erasure Value
+#### Difiiculty: 2
+
 ### 1658. Minimum Operations to Reduce X to Zero
 #### Difiiculty: 3
 
