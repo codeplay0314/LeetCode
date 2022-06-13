@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 120. Triangle
+#### Difiiculty: 2
+#### Tag
+`DP`
+
 ### 1695. Maximum Erasure Value
 #### Difiiculty: 2
 
