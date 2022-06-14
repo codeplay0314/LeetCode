@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 583. Delete Operation for Two Strings
+#### Difiiculty: 2
+#### Tag
+`DP`
+
 ### 120. Triangle
 #### Difiiculty: 2
 #### Tag
