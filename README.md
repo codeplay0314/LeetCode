@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1048. Longest String Chain
+#### Difiiculty: 2
+#### Tag
+`string`, `BFS`
+
 ### 583. Delete Operation for Two Strings
 #### Difiiculty: 2
 #### Tag
