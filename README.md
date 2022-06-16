@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 5. Longest Palindromic Substring
+#### Difiiculty: 2
+#### Tag
+`Manacher`
+
 ### 1048. Longest String Chain
 #### Difiiculty: 2
 #### Tag
