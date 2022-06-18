@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 745. Prefix and Suffix Search
+#### Difiiculty: 3
+#### Tag
+`string`, `hash`
+
 ### 5. Longest Palindromic Substring
 #### Difiiculty: 2
 #### Tag
