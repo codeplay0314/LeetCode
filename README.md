@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1268. Search Suggestions System
+#### Difiiculty: 3
+#### Tag
+`string`
+
 ### 745. Prefix and Suffix Search
 #### Difiiculty: 3
 #### Tag
