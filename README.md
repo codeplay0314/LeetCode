@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 820. Short Encoding of Words
+#### Difiiculty: 2
+#### Tag
+`string`
+
 ### 1268. Search Suggestions System
 #### Difiiculty: 3
 #### Tag
