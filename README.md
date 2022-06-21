@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1642. Furthest Building You Can Reach
+#### Difiiculty: 3
+#### Tag
+`priority queue`
+
 ### 820. Short Encoding of Words
 #### Difiiculty: 2
 #### Tag
