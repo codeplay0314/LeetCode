@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 630. Course Schedule III
+A good greedy problem.
+
 ### 391. Perfect Rectangle
 Standard problem of line sweeping.
 

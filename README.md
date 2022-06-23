@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 630. Course Schedule III
+#### Difiiculty: 4
+#### Tag
+`greedy`
+
 ### 215. Kth Largest Element in an Array
 #### Difiiculty: 3
 #### Tag
