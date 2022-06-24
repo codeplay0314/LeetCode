@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1354. Construct Target Array With Multiple Sums
+#### Difiiculty: 3
+#### Tag
+`priority queue`
+
 ### 630. Course Schedule III
 #### Difiiculty: 4
 #### Tag
