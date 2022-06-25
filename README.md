@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 665. Non-decreasing Array
+#### Difiiculty: 2
+
 ### 1354. Construct Target Array With Multiple Sums
 #### Difiiculty: 3
 #### Tag
