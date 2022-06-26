@@ -1,5 +1,5 @@
 /*
- * @lc app=leetcode id=1557 lang=cpp
+ * @lc app=leetcode id=1461 lang=cpp
  *
  * [1461] Check If a String Contains All Binary Codes of Size K
  */
