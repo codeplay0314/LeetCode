@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+#### Difiiculty: 2
+
 ### 665. Non-decreasing Array
 #### Difiiculty: 2
 
