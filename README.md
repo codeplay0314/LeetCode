@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1647. Minimum Deletions to Make Character Frequencies Unique
+#### Difiiculty: 3
+
 ### 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 #### Difiiculty: 2
 
