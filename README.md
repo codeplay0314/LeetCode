@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 462. Minimum Moves to Equal Array Elements II
+#### Difiiculty: 2
+#### Tag
+`math`
+
 ### 1647. Minimum Deletions to Make Character Frequencies Unique
 #### Difiiculty: 3
 
