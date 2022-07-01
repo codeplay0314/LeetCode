@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1710. Maximum Units on a Truck
+#### Difiiculty: 2
+
 ### 462. Minimum Moves to Equal Array Elements II
 #### Difiiculty: 2
 #### Tag
