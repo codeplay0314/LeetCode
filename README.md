@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
+#### Difiiculty: 2
+
 ### 1710. Maximum Units on a Truck
 #### Difiiculty: 2
 
