@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 376. Wiggle Subsequence
+#### Difiiculty: 2
+#### Tag
+`DP`
+
 ### 1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
 #### Difiiculty: 2
 
