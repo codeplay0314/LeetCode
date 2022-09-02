@@ -9,6 +9,18 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+
+### 637. Average of Levels in Binary Tree
+#### Difiiculty: 2
+#### Tag
+`tree`
+
+
+### 1448. Count Good Nodes in Binary Tree
+#### Difiiculty: 2
+#### Tag
+`tree`
+
 ### 376. Wiggle Subsequence
 #### Difiiculty: 2
 #### Tag
