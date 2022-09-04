@@ -9,12 +9,20 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 987. Vertical Order Traversal of a Binary Tree
+#### Difiiculty: 2
+#### Tag
+`dfs`, `sort`
+
+### 967. Numbers With Same Consecutive Differences
+#### Difiiculty: 2
+#### Tag
+`backtracking`
 
 ### 637. Average of Levels in Binary Tree
 #### Difiiculty: 2
 #### Tag
 `tree`
-
 
 ### 1448. Count Good Nodes in Binary Tree
 #### Difiiculty: 2
