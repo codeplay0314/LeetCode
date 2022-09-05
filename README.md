@@ -9,6 +9,14 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 7. Reverse Integer
+#### Difiiculty: 1
+
+### 429. N-ary Tree Level Order Traversal
+#### Difiiculty: 2
+#### Tag
+`dfs`
+
 ### 987. Vertical Order Traversal of a Binary Tree
 #### Difiiculty: 2
 #### Tag
