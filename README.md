@@ -9,6 +9,14 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 8. String to Integer (atoi)
+#### Difiiculty: 1
+
+### 814. Binary Tree Pruning
+#### Difiiculty: 2
+#### Tag
+`dfs`
+
 ### 7. Reverse Integer
 #### Difiiculty: 1
 
