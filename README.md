@@ -9,6 +9,21 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 11. Container With Most Water
+#### Difiiculty: 3
+#### Tag
+`two pointers`
+
+### 94. Binary Tree Inorder Traversal
+#### Difiiculty: 1
+#### Tag
+`dfs`
+
+### 606. Construct String from Binary Tree
+#### Difiiculty: 2
+#### Tag
+`dfs`
+
 ### 8. String to Integer (atoi)
 #### Difiiculty: 1
 
