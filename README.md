@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1996. The Number of Weak Characters in the Game
+#### Difiiculty: 2
+#### Tag
+`monotonic stack`
+
 ### 11. Container With Most Water
 #### Difiiculty: 3
 #### Tag
