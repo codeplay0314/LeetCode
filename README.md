@@ -9,6 +9,14 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 13. Roman to Integer
+#### Difiiculty: 2
+
+### 1383. Maximum Performance of a Team
+#### Difiiculty: 3
+#### Tag
+`priority queue`
+
 ### 1996. The Number of Weak Characters in the Game
 #### Difiiculty: 2
 #### Tag
