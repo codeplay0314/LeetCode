@@ -9,6 +9,14 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 14. Longest Common Prefix
+#### Difiiculty: 1
+
+### 948. Bag of Tokens
+#### Difiiculty: 2
+#### Tag
+`two pointers`
+
 ### 13. Roman to Integer
 #### Difiiculty: 2
 
