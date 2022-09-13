@@ -9,6 +9,14 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 15. 3Sum
+#### Difiiculty: 3
+#### Tag
+`map`
+
+### 393. UTF-8 Validation
+#### Difiiculty: 1
+
 ### 14. Longest Common Prefix
 #### Difiiculty: 1
 
