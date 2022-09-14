@@ -9,6 +9,16 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 19. Remove Nth Node From End of List
+#### Difiiculty: 2
+#### Tag
+`list`
+
+### 1457. Pseudo-Palindromic Paths in a Binary Tree
+#### Difiiculty: 2
+#### Tag
+`dfs`
+
 ### 15. 3Sum
 #### Difiiculty: 3
 #### Tag
