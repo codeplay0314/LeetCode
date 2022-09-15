@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 2007. Find Original Array From Doubled Array
+#### Difiiculty: 2
+
 ### 19. Remove Nth Node From End of List
 #### Difiiculty: 2
 #### Tag
