@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1770. Maximum Score from Performing Multiplication Operations
+#### Difiiculty: 4
+#### Tag
+`dp`
+
 ### 2007. Find Original Array From Doubled Array
 #### Difiiculty: 2
 
