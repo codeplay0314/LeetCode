@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 609. Find Duplicate File in System
+#### Difiiculty: 3
+#### Tag
+`string`, `map`
+
 ### 1770. Maximum Score from Performing Multiplication Operations
 #### Difiiculty: 4
 #### Tag
