@@ -9,6 +9,16 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 20. Valid Parentheses
+#### Difiiculty: 2
+#### Tag
+`stack`
+
+### 718. Maximum Length of Repeated Subarray
+#### Difiiculty: 2
+#### Tag
+`dp`
+
 ### 609. Find Duplicate File in System
 #### Difiiculty: 3
 #### Tag
