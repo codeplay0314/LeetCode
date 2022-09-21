@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 985. Sum of Even Numbers After Queries
+#### Difiiculty: 2
+
 ### 20. Valid Parentheses
 #### Difiiculty: 2
 #### Tag
