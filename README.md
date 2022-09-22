@@ -9,6 +9,12 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 21. Merge Two Sorted Lists
+#### Difiiculty: 1
+
+### 557. Reverse Words in a String III
+#### Difiiculty: 1
+
 ### 985. Sum of Even Numbers After Queries
 #### Difiiculty: 2
 
