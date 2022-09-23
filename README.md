@@ -9,6 +9,17 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 22. Generate Parentheses
+#### Difiiculty: 2
+#### Tag
+`backtracking`
+
+### 1680. Concatenation of Consecutive Binary Numbers
+#### Difiiculty: 2
+#### Tag
+`bit manipulation`
+
+
 ### 21. Merge Two Sorted Lists
 #### Difiiculty: 1
 
