@@ -9,6 +9,12 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 26. Remove Duplicates from Sorted Array
+#### Difiiculty: 1
+
+### 622. Design Circular Queue
+#### Difiiculty: 2
+
 ### 22. Generate Parentheses
 #### Difiiculty: 2
 #### Tag
