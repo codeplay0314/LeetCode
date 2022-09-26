@@ -9,6 +9,16 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 28. Find the Index of the First Occurrence in a String
+#### Difiiculty: 2
+#### Tag
+`KMP`
+
+### 990. Satisfiability of Equality Equations
+#### Difiiculty: 2
+#### Tag
+`union find`
+
 ### 26. Remove Duplicates from Sorted Array
 #### Difiiculty: 1
 
