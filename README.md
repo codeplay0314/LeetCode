@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 838. Push Dominoes
+#### Difiiculty: 2
+#### Tag
+`string`
+
 ### 28. Find the Index of the First Occurrence in a String
 #### Difiiculty: 2
 #### Tag
