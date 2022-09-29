@@ -9,6 +9,16 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 33. Search in Rotated Sorted Array
+#### Difiiculty: 3
+#### Tag
+`binary search`
+
+### 658. Find K Closest Elements
+#### Difiiculty: 2
+#### Tag
+`sort`
+
 ### 838. Push Dominoes
 #### Difiiculty: 2
 #### Tag
