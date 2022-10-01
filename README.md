@@ -9,6 +9,16 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 34. Find First and Last Position of Element in Sorted Array
+#### Difiiculty: 2
+#### Tag
+`binary search`
+
+### 91. Decode Ways
+#### Difiiculty: 2
+#### Tag
+`DP`
+
 ### 33. Search in Rotated Sorted Array
 #### Difiiculty: 3
 #### Tag
