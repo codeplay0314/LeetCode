@@ -9,6 +9,16 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 623. Add One Row to Tree
+#### Difiiculty: 2
+#### Tag
+`tree`
+
+### 112. Path Sum
+#### Difiiculty: 2
+#### Tag
+`tree`
+
 ### 34. Find First and Last Position of Element in Sorted Array
 #### Difiiculty: 2
 #### Tag
