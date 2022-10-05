@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1444. Number of Ways of Cutting a Pizza
+#### Difiiculty: 3
+#### Tag
+`dp`
+
 ### 623. Add One Row to Tree
 #### Difiiculty: 2
 #### Tag
