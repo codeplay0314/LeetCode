@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 981. Time Based Key-Value Store
+#### Difiiculty: 2
+#### Tag
+`binary search`
+
 ### 1444. Number of Ways of Cutting a Pizza
 #### Difiiculty: 3
 #### Tag
