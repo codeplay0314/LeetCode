@@ -9,6 +9,16 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 16. 3Sum Closest
+#### Difiiculty: 2
+#### Tag
+`two pointers`
+
+### 2233. Maximum Product After K Increments
+#### Difiiculty: 3
+#### Tag
+`two pointers`
+
 ### 732. My Calendar III
 #### Difiiculty: 2
 #### Tag
