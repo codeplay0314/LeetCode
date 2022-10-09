@@ -9,6 +9,21 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 430. Flatten a Multilevel Doubly Linked List
+#### Difiiculty: 3
+#### Tag
+`linked list`
+
+### 114. Flatten Binary Tree to Linked List
+#### Difiiculty: 2
+#### Tag
+`linked list`
+
+### 653. Two Sum IV - Input is a BST
+#### Difiiculty: 2
+#### Tag
+`two pointers`
+
 ### 16. 3Sum Closest
 #### Difiiculty: 2
 #### Tag
