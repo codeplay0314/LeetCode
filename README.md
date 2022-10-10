@@ -8,7 +8,10 @@ personal training log for LeetCode
 4. Challenging
 5. Impossible
 
-## Problem
+## Proble
+### 1328. Break a Palindrome
+#### Difiiculty: 2
+
 ### 430. Flatten a Multilevel Doubly Linked List
 #### Difiiculty: 3
 #### Tag
