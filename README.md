@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Proble
+### 976. Largest Perimeter Triangle
+#### Difiiculty: 2
+#### Tag
+`math`
+
 ### 1328. Break a Palindrome
 #### Difiiculty: 2
 
