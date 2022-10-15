@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Proble
+### 1531. String Compression II
+#### Difiiculty: 4
+#### Tag
+`dp`
+
 ### 237. Delete Node in a Linked List
 #### Difiiculty: 2
 #### Tag
