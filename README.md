@@ -8,7 +8,12 @@ personal training log for LeetCode
 4. Challenging
 5. Impossible
 
-## Proble
+## Problem
+### 1335. Minimum Difficulty of a Job Schedule
+#### Difiiculty: 3
+#### Tag
+`dp`
+
 ### 1531. String Compression II
 #### Difiiculty: 4
 #### Tag
