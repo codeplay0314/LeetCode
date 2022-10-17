@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1832. Check if the Sentence Is Pangram
+#### Difiiculty: 1
+#### Tag
+`string`
+
 ### 1335. Minimum Difficulty of a Job Schedule
 #### Difiiculty: 3
 #### Tag
