@@ -9,6 +9,14 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 692. Top K Frequent Words
+#### Difiiculty: 2
+#### Tag
+`stl`
+
+### 38. Count and Say
+#### Difiiculty: 1
+
 ### 1832. Check if the Sentence Is Pangram
 #### Difiiculty: 1
 #### Tag
