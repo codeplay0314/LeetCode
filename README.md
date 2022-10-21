@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 219. Contains Duplicate II
+#### Difiiculty: 2
+#### Tag
+`map`
+
 ### 12. Integer to Roman
 #### Difiiculty: 1
 
