@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1662. Check If Two String Arrays are Equivalent
+#### Difiiculty: 1
+
 ### 645. Set Mismatch
 #### Difiiculty: 2
 
