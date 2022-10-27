@@ -9,6 +9,14 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 835. Image Overlap
+#### Difiiculty: 1
+
+### 523. Continuous Subarray Sum
+#### Difiiculty: 2
+#### Tag
+`prefix sum`, `hash`
+
 ### 1662. Check If Two String Arrays are Equivalent
 #### Difiiculty: 1
 
