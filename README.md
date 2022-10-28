@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 49. Group Anagrams
+#### Difiiculty: 2
+#### Tag
+`hash`
+
 ### 835. Image Overlap
 #### Difiiculty: 1
 
