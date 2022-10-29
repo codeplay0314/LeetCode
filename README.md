@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 2136. Earliest Possible Day of Full Bloom
+#### Difiiculty: 3
+#### Tag
+`greedy`
+
 ### 49. Group Anagrams
 #### Difiiculty: 2
 #### Tag
