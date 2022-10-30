@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1293. Shortest Path in a Grid with Obstacles Elimination
+#### Difiiculty: 3
+#### Tag
+`search`
+
 ### 2136. Earliest Possible Day of Full Bloom
 #### Difiiculty: 3
 #### Tag
