@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1706. Where Will the Ball Fall
+#### Difiiculty: 2
+#### Tag
+`simulation`
+
 ### 766. Toeplitz Matrix
 #### Difiiculty: 1
 
