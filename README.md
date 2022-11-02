@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 433. Minimum Genetic Mutation
+#### Difiiculty: 2
+#### Tag
+`bfs`
+
 ### 1706. Where Will the Ball Fall
 #### Difiiculty: 2
 #### Tag
