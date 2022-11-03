@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 2131. Longest Palindrome by Concatenating Two Letter Words
+#### Difiiculty: 2
+#### Tag
+`hash`
+
 ### 433. Minimum Genetic Mutation
 #### Difiiculty: 2
 #### Tag
