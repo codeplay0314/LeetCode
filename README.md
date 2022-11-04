@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 345. Reverse Vowels of a String
+#### Difiiculty: 1
+
 ### 2131. Longest Palindrome by Concatenating Two Letter Words
 #### Difiiculty: 2
 #### Tag
