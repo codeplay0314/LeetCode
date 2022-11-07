@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1323. Maximum 69 Number
+#### Difiiculty: 1
+
 ### 345. Reverse Vowels of a String
 #### Difiiculty: 1
 
