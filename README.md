@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1544. Make The String Great
+#### Difiiculty: 2
+#### Tag
+`stack`
+
 ### 1323. Maximum 69 Number
 #### Difiiculty: 1
 
