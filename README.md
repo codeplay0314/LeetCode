@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1047. Remove All Adjacent Duplicates In String
+#### Difiiculty: 2
+#### Tag
+`stack`
+
 ### 901. Online Stock Span
 #### Difiiculty: 2
 #### Tag
