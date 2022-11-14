@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 947. Most Stones Removed with Same Row or Column
+#### Difiiculty: 2
+#### Tag
+`union find`
+
 ### 151. Reverse Words in a String
 #### Difiiculty: 2
 #### Tag
