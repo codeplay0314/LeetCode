@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 222. Count Complete Tree Nodes
+#### Difiiculty: 3
+#### Tag
+`binary search`, `tree`
+
 ### 947. Most Stones Removed with Same Row or Column
 #### Difiiculty: 2
 #### Tag
