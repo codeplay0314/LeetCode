@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 374. Guess Number Higher or Lower
+#### Difiiculty: 2
+#### Tag
+`binary search`
+
 ### 222. Count Complete Tree Nodes
 #### Difiiculty: 3
 #### Tag
