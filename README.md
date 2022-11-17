@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 223. Rectangle Area
+#### Difiiculty: 2
+#### Tag
+`math`
+
 ### 374. Guess Number Higher or Lower
 #### Difiiculty: 2
 #### Tag
