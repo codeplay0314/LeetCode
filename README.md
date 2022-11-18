@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 263. Ugly Number
+#### Difiiculty: 1
+
 ### 223. Rectangle Area
 #### Difiiculty: 2
 #### Tag
