@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 587. Erect the Fence
+#### Difiiculty: 3
+#### Tag
+`convex hull`, `math`
+
 ### 263. Ugly Number
 #### Difiiculty: 1
 
