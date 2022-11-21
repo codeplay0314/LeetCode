@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1926. Nearest Exit from Entrance in Maze
+#### Difiiculty: 2
+#### Tag
+`bfs`
+
 ### 587. Erect the Fence
 #### Difiiculty: 3
 #### Tag
