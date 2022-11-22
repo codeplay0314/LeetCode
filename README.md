@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 279. Perfect Squares
+#### Difiiculty: 2
+#### Tag
+`dp`
+
 ### 1926. Nearest Exit from Entrance in Maze
 #### Difiiculty: 2
 #### Tag
