@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 36. Valid Sudoku
+#### Difiiculty: 1
+
 ### 279. Perfect Squares
 #### Difiiculty: 2
 #### Tag
