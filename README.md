@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### Word Search
+#### Difiiculty: 2
+#### Tag
+`backtracking`
+
 ### 36. Valid Sudoku
 #### Difiiculty: 1
 
