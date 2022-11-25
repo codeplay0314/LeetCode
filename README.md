@@ -9,7 +9,12 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
-### Word Search
+### 907. Sum of Subarray Minimums
+#### Difiiculty: 3
+#### Tag
+`monotonic stack`
+
+### 79. Word Search
 #### Difiiculty: 2
 #### Tag
 `backtracking`
