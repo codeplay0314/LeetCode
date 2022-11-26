@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1235. Maximum Profit in Job Scheduling
+#### Difiiculty: 3
+#### Tag
+`dp`, `binary search`
+
 ### 907. Sum of Subarray Minimums
 #### Difiiculty: 3
 #### Tag
