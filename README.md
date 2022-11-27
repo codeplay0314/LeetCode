@@ -9,6 +9,17 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 446. Arithmetic Slices II - Subsequence
+#### Difiiculty: 4
+#### Tag
+`dp`, `map`
+
+### 48. Rotate Image
+#### Difiiculty: 2
+
+### 1752. Check if Array Is Sorted and Rotated
+#### Difiiculty: 2
+
 ### 1235. Maximum Profit in Job Scheduling
 #### Difiiculty: 3
 #### Tag
