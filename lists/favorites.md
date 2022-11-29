@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 380. Insert Delete GetRandom O(1)
+Get random entry from a set.
+
 ### 11. Container With Most Water
 Smart solution with two pointers.
 

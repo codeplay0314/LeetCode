@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 380. Insert Delete GetRandom O(1)
+#### Difiiculty: 3
+#### Tag
+`hash`
+
 ### 2225. Find Players With Zero or One Losses
 #### Difiiculty: 3
 #### Tag
