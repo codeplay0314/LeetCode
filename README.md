@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1207. Unique Number of Occurrences
+#### Difiiculty: 2
+#### Tag
+`hash`
+
 ### 380. Insert Delete GetRandom O(1)
 #### Difiiculty: 3
 #### Tag
