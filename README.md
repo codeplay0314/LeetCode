@@ -9,6 +9,9 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1704. Determine if String Halves Are Alike
+#### Difiiculty: 1
+
 ### 1207. Unique Number of Occurrences
 #### Difiiculty: 2
 #### Tag
