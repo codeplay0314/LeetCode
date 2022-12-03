@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 451. Sort Characters By Frequency
+#### Difiiculty: 2
+#### Tag
+`hash`, `sort`
+
 ### 1657. Determine if Two Strings Are Close
 #### Difiiculty: 2
 #### Tag
