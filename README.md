@@ -9,10 +9,10 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
-### 451. Sort Characters By Frequency
+### 2256. Minimum Average Difference
 #### Difiiculty: 2
 #### Tag
-`hash`, `sort`
+`prefix sum`
 
 ### 1657. Determine if Two Strings Are Close
 #### Difiiculty: 2
