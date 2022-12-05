@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 876. Middle of the Linked List
+#### Difiiculty: 2
+#### Tag
+`linked list`
+
 ### 2256. Minimum Average Difference
 #### Difiiculty: 2
 #### Tag
