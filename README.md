@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 328. Odd Even Linked List
+#### Difiiculty: 2
+#### Tag
+`linked list`
+
 ### 876. Middle of the Linked List
 #### Difiiculty: 2
 #### Tag
