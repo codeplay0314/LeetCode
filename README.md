@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 938. Range Sum of BST
+#### Difiiculty: 2
+#### Tag
+`tree`
+
 ### 328. Odd Even Linked List
 #### Difiiculty: 2
 #### Tag
