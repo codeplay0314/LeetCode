@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 872. Leaf-Similar Trees
+#### Difiiculty: 2
+#### Tag
+`tree`
+
 ### 938. Range Sum of BST
 #### Difiiculty: 2
 #### Tag
