@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1026. Maximum Difference Between Node and Ancestor
+#### Difiiculty: 2
+#### Tag
+`tree`
+
 ### 872. Leaf-Similar Trees
 #### Difiiculty: 2
 #### Tag
