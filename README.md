@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1339. Maximum Product of Splitted Binary Tree
+#### Difiiculty: 2
+#### Tag
+`tree`
+
 ### 1026. Maximum Difference Between Node and Ancestor
 #### Difiiculty: 2
 #### Tag
