@@ -17,26 +17,17 @@
  * };
  */
 class Solution {
-    const static int inf = ~0u>>1;
-    typedef pair<int, int> retV;
-    retV dfs(TreeNode* u) {
-        if (!u) return make_pair(0, -inf);
-        retV lret = dfs(u->left);
-        retV rret = dfs(u->right);
-        
-        retV ret = make_pair(u->val, u->val);
-        ret.first = max(ret.first, u->val + lret.first);
-        ret.first = max(ret.first, u->val + rret.first);
-        ret.second += max(0, lret.first);
-        ret.second += max(0, rret.first);
-        ret.second = max(ret.second, lret.second);
-        ret.second = max(ret.second, rret.second);
-
-        return ret;
+    pair<int, int> DFS(TreeNode* node) {
+        if (!node) return make_pair(0, INT_MIN);
+        pair<int, int> L = DFS(node->left), R = DFS(node->right);
+        pair<int, int> res(max(L.first, R.first) + node->val, max(L.second, R.second));
+        res.first = max(res.first, 0);
+        res.second = max(res.second, L.first + R.first + node->val);
+        return res;
     }
 public:
     int maxPathSum(TreeNode* root) {
-        return dfs(root).second;
+        return DFS(root).second;
     }
 };
 // @lc code=end

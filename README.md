@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 70. Climbing Stairs
+#### Difiiculty: 2
+#### Tag
+`math`
+
 ### 1339. Maximum Product of Splitted Binary Tree
 #### Difiiculty: 2
 #### Tag
