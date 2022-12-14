@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 198. House Robber
+#### Difiiculty: 2
+#### Tag
+`dp`
+
 ### 931. Minimum Falling Path Sum
 #### Difiiculty: 2
 #### Tag
