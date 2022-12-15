@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1143. Longest Common Subsequence
+#### Difiiculty: 2
+#### Tag
+`dp`
+
 ### 198. House Robber
 #### Difiiculty: 2
 #### Tag
