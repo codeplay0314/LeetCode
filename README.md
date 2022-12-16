@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 232. Implement Queue using Stacks
+#### Difiiculty: 3
+#### Tag
+`stack`
+
 ### 1143. Longest Common Subsequence
 #### Difiiculty: 2
 #### Tag
