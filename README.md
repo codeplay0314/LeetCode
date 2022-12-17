@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 150. Evaluate Reverse Polish Notation
+#### Difiiculty: 2
+#### Tag
+`stack`
+
 ### 232. Implement Queue using Stacks
 #### Difiiculty: 3
 #### Tag
