@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 739. Daily Temperatures
+#### Difiiculty: 2
+#### Tag
+`stack`
+
 ### 150. Evaluate Reverse Polish Notation
 #### Difiiculty: 2
 #### Tag
