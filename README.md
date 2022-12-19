@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 1971. Find if Path Exists in Graph
+#### Difiiculty: 2
+#### Tag
+`union find`
+
 ### 739. Daily Temperatures
 #### Difiiculty: 2
 #### Tag
