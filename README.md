@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 841. Keys and Rooms
+#### Difiiculty: 2
+#### Tag
+`bfs`
+
 ### 1971. Find if Path Exists in Graph
 #### Difiiculty: 2
 #### Tag
