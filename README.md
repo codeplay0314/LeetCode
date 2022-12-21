@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### Possible Bipartition
+#### Difiiculty: 2
+#### Tag
+`union find`
+
 ### 841. Keys and Rooms
 #### Difiiculty: 2
 #### Tag
