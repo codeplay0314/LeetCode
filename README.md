@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 834. Sum of Distances in Tree
+#### Difiiculty: 3
+#### Tag
+`dp`, `DFS`
+
 ### Possible Bipartition
 #### Difiiculty: 2
 #### Tag
