@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 790. Domino and Tromino Tiling
+#### Difiiculty: 2
+#### Tag
+`dp`
+
 ### 309. Best Time to Buy and Sell Stock with Cooldown
 #### Difiiculty: 2
 #### Tag
