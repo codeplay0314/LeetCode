@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 2389. Longest Subsequence With Limited Sum
+#### Difiiculty: 2
+#### Tag
+`prefix sum`
+
 ### 790. Domino and Tromino Tiling
 #### Difiiculty: 2
 #### Tag
