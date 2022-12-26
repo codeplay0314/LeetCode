@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 55. Jump Game
+#### Difiiculty: 2
+#### Tag
+`greedy`
+
 ### 2389. Longest Subsequence With Limited Sum
 #### Difiiculty: 2
 #### Tag
