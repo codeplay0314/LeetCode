@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 2279. Maximum Bags With Full Capacity of Rocks
+#### Difiiculty: 2
+#### Tag
+`sort`
+
 ### 55. Jump Game
 #### Difiiculty: 2
 #### Tag
