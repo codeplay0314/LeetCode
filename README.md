@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 407. Trapping Rain Water II
+#### Difiiculty: 4
+#### Tag
+`bfs`
+
 ### 2279. Maximum Bags With Full Capacity of Rocks
 #### Difiiculty: 2
 #### Tag
