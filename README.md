@@ -9,6 +9,16 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 420. Strong Password Checker
+#### Difiiculty: 3
+#### Tag
+`string`
+
+### 410. Split Array Largest Sum
+#### Difiiculty: 3
+#### Tag
+`dp`
+
 ### 407. Trapping Rain Water II
 #### Difiiculty: 4
 #### Tag
