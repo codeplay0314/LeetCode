@@ -9,6 +9,16 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 432. All O`one Data Structure
+#### Difiiculty: 2
+#### Tag
+`heap`, `map`
+
+### 542. 01 Matrix
+#### Difiiculty: 2
+#### Tag
+`bfs`
+
 ### 420. Strong Password Checker
 #### Difiiculty: 3
 #### Tag
