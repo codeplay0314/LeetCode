@@ -9,6 +9,16 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 440. K-th Smallest in Lexicographical Order
+#### Difiiculty: 4
+#### Tag
+`trie`
+
+### 767. Reorganize String
+#### Difiiculty: 3
+#### Tag
+`heap`
+
 ### 432. All O`one Data Structure
 #### Difiiculty: 2
 #### Tag

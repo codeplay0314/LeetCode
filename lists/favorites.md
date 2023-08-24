@@ -1,5 +1,8 @@
 # Favorite Problems
 
+### 440. K-th Smallest in Lexicographical Order
+Great concept of virtual trie.
+
 ### 380. Insert Delete GetRandom O(1)
 Get random entry from a set.
 
