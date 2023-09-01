@@ -9,6 +9,11 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 338. Counting Bits
+#### Difiiculty: 2
+#### Tag
+`bit manipulation`
+
 ### 440. K-th Smallest in Lexicographical Order
 #### Difiiculty: 4
 #### Tag
