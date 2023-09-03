@@ -9,6 +9,16 @@ personal training log for LeetCode
 5. Impossible
 
 ## Problem
+### 62. Unique Paths
+#### Difiiculty: 2
+#### Tag
+`dp`
+
+### 2707. Extra Characters in a String
+#### Difiiculty: 2
+#### Tag
+`dp`
+
 ### 338. Counting Bits
 #### Difiiculty: 2
 #### Tag
